@@ -33,19 +33,19 @@ header:
       ko-KR   : *KO
     url: /about.html
 
-docs-en:
-  - title:      Start
+docs-ko:
+  - title:      HOME
     children:
       - title:  Quick Start
-        url:    /docs/en/quick-start
+        url:    archive.html
       - title:  Structure
-        url:    /docs/en/structure
+        url:    archive.html
 
   - title:      Customization
     children:
       - title:  Configuration
-        url:    /docs/en/configuration
+        url:    about.html
       - title:  Navigation
-        url:    /docs/en/navigation
+        url:    about.html
 
 
