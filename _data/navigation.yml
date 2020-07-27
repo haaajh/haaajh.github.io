@@ -1,6 +1,5 @@
 header:
   - titles:
-      # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
@@ -15,17 +14,9 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       아카이브
       ko-KR   : *KO
-      fr      : &FR       Archives
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
     url: /archive.html
 
   - titles:
-      # @start locale config
       en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
@@ -40,24 +31,17 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       소개
       ko-KR   : *KO
-      fr      : &FR       À propos
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
-     url: /about.html
+    url: /about.html
 
-docs-en:
-  - title: Start
+docs-ko:
+  - title: 선형대수학
     children:
-       - title: Quick Start
-         url: /docs/en/quick-start
-       - title: Structure
-         url: /docs/en/structure
-  - title: Customization
+       - title: Determinant
+         url: /docs/en/Determinant
+       - title: Eigen Value
+         url: /docs/en/Eigen Value
+  - title: 확률과통계
     children:
-       - title: Configuration
-         url: /docs/en/configuration
+       - title: Bayes' theorem
+         url: /docs/en/Bayes' theorem
 
