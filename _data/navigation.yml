@@ -33,15 +33,19 @@ header:
       ko-KR   : *KO
     url: /about.html
 
-docs-ko:
-  - title: 선형대수학
+docs-en:
+  - title:      Start
     children:
-       - title: Determinant
-         url: /docs/en/Determinant
-       - title: Eigen Value
-         url: /docs/en/Eigen Value
-  - title: 확률과통계
+      - title:  Quick Start
+        url:    /docs/en/quick-start
+      - title:  Structure
+        url:    /docs/en/structure
+
+  - title:      Customization
     children:
-       - title: Bayes' theorem
-         url: /docs/en/Bayes' theorem
+      - title:  Configuration
+        url:    /docs/en/configuration
+      - title:  Navigation
+        url:    /docs/en/navigation
+
 
