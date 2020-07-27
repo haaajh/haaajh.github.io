@@ -49,6 +49,10 @@ header:
       # @end locale config
     url: /about.html
 
+sidebar:
+  nav: docs-en
+
+
 docs-en:
   - title: Start
     children:
