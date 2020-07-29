@@ -1,8 +1,8 @@
 ---
-title: Post with Header Image
-tags: TeXt
+title: Determinant
+tags: Linear Algebra
 article_header:
-  type: overlay
+  type: cover
   image:
     src: /screenshot.jpg
 sidebar:
