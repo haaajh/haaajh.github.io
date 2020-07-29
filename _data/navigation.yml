@@ -34,18 +34,18 @@ header:
     url: /about.html
 
 docs-ko:
-  - title:      HOME
+  - title:      MAIN
     children:
-      - title:  Quick Start
-        url:    archive.html
-      - title:  Structure
-        url:    archive.html
+      - title:  HOME
+        url:    /index.html
+      - title:  ARCHIVE
+        url:    /archive.html
 
-  - title:      Customization
+  - title:      MATHEMATICS
     children:
-      - title:  Configuration
-        url:    about.html
-      - title:  Navigation
-        url:    about.html
+      - title:  Determinant
+        url:    /about.html
+      - title:  Eigen value
+        url:    /about.html
 
 
