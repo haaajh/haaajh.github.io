@@ -1,5 +1,5 @@
 ---
-title: Determinant
+title: Eigen value
 tags: Linear Algebra
 article_header:
   type: cover
