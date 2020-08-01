@@ -17,6 +17,23 @@ header:
     url: /archive.html
 
   - titles:
+      en      : &EN       Github
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       깃허브
+      ko-KR   : *KO
+    url: /about.html
+
+  - titles:
       en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
@@ -38,16 +55,19 @@ docs-ko:
     children:
       - title:  HOME
         url:    /index.html
-      - title:  LIST
-        url:    /index.html
-      - title:  ARCHIVE
-        url:    /archive.html
 
-  - title:      MATHEMATICS
+  - title:      Essence of linear algebra
     children:
       - title:  Determinant
         url:    /2020/07/30/determinant.html
       - title:  Eigen value
         url:    /2020/07/31/eigen_value.html
+
+  - title:      Essence of calculus
+    children:
+      - title:  Higher order derivatives
+        url:    /2020/08/01/higher_order_derivatives.html
+      - title:  Taylor series
+        url:    /2020/08/02/taylor_series.html
 
 
