@@ -37,7 +37,7 @@ docs-ko:
   - title:      MAIN
     children:
       - title:  HOME
-        url:    /about.html
+        url:    /index.html
       - title:  LIST
         url:    /index.html
       - title:  ARCHIVE
